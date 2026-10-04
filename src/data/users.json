@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": { "first": "Іван", "last": "Іванов" },
+    "location": { "city": "Київ", "country": "Україна" },
+    "email": "ivan@example.com",
+    "phone": "+380123456789",
+    "picture": "/users/1.jpg",
+    "dob": { "date": "2010-05-10", "age": 16 },
+    "hobbies": ["Футбол", "Програмування"],
+    "details": "Навчається в школі, цікавиться ІТ."
+  },
+  {
+    "id": 2,
+    "gender": "female",
+    "name": { "first": "Анна", "last": "Коваленко" },
+    "location": { "city": "Львів", "country": "Україна" },
+    "email": "anna@example.com",
+    "phone": "+380987654321",
+    "picture": "/users/2.jpg",
+    "dob": { "date": "2002-08-15", "age": 24 },
+    "hobbies": ["Малювання", "Читання", "Подорожі"],
+    "details": "Студентка академії мистецтв."
+  },
+  {
+    "id": 3,
+    "gender": "male",
+    "name": { "first": "Петро", "last": "Шевченко" },
+    "location": { "city": "Одеса", "country": "Україна" },
+    "email": "petro@example.com",
+    "phone": "+380555555555",
+    "picture": "/users/3.jpg",
+    "dob": { "date": "1985-11-20", "age": 38 },
+    "hobbies": ["Риболовля", "Шахи"],
+    "details": "Працює інженером більше 10 років."
+  },
+  {
+    "id": 4,
+    "gender": "female",
+    "name": { "first": "Марія", "last": "Ткачук" },
+    "location": { "city": "Дніпро", "country": "Україна" },
+    "email": "maria@example.com",
+    "phone": "+380444444444",
+    "picture": "/users/4.jpg",
+    "dob": { "date": "1965-03-12", "age": 59 },
+    "hobbies": ["Садівництво", "Кулінарія"],
+    "details": "Викладач в університеті."
+  },
+  {
+    "id": 5,
+    "gender": "male",
+    "name": { "first": "Олександр", "last": "Бойко" },
+    "location": { "city": "Харків", "country": "Україна" },
+    "email": "alex@example.com",
+    "phone": "+380333333333",
+    "picture": "/users/5.jpg",
+    "dob": { "date": "2007-02-28", "age": 17 },
+    "hobbies": ["Спорт", "Відеоігри"],
+    "details": "Готується до вступу в університет."
+  },
+  {
+    "id": 6,
+    "gender": "female",
+    "name": { "first": "Олена", "last": "Кравченко" },
+    "location": { "city": "Запоріжжя", "country": "Україна" },
+    "email": "olena@example.com",
+    "phone": "+380222222222",
+    "picture": "/users/6.jpg",
+    "dob": { "date": "1995-07-07", "age": 29 },
+    "hobbies": ["Йога", "Фотографія"],
+    "details": "Професійний фотограф."
+  },
+  {
+    "id": 7,
+    "gender": "male",
+    "name": { "first": "Дмитро", "last": "Мельник" },
+    "location": { "city": "Вінниця", "country": "Україна" },
+    "email": "dmytro@example.com",
+    "phone": "+380111111111",
+    "picture": "/users/7.jpg",
+    "dob": { "date": "1978-09-09", "age": 45 },
+    "hobbies": ["Автомобілі", "Кіно"],
+    "details": "Менеджер з продажу автомобілів."
+  },
+  {
+    "id": 8,
+    "gender": "female",
+    "name": { "first": "Катерина", "last": "Лисенко" },
+    "location": { "city": "Полтава", "country": "Україна" },
+    "email": "katya@example.com",
+    "phone": "+380666666666",
+    "picture": "/users/8.jpg",
+    "dob": { "date": "1955-12-01", "age": 68 },
+    "hobbies": ["В'язання", "Випічка"],
+    "details": "На пенсії, любить проводити час з онуками."
+  },
+  {
+    "id": 9,
+    "gender": "male",
+    "name": { "first": "Максим", "last": "Григоренко" },
+    "location": { "city": "Чернігів", "country": "Україна" },
+    "email": "max@example.com",
+    "phone": "+380777777777",
+    "picture": "/users/9.jpg",
+    "dob": { "date": "2000-04-18", "age": 26 },
+    "hobbies": ["Музика", "Гітара"],
+    "details": "Музикант у місцевому гурті."
+  },
+  {
+    "id": 10,
+    "gender": "female",
+    "name": { "first": "Вікторія", "last": "Сидоренко" },
+    "location": { "city": "Тернопіль", "country": "Україна" },
+    "email": "vika@example.com",
+    "phone": "+380888888888",
+    "picture": "/users/10.jpg",
+    "dob": { "date": "1989-10-30", "age": 34 },
+    "hobbies": ["Танці", "Фітнес"],
+    "details": "Тренер з фітнесу."
+  }
+]
